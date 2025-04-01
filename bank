@@ -47,8 +47,11 @@ public class Main {
                     System.out.println("INVALID CHOICE");
             }
         }
+        
+        System.out.println("***************");
+        System.out.println("Thank you! Have a nice day!");
+        System.out.println("***************");
 
-        System.out.println();
         scanner.close();
 
         
@@ -106,12 +109,6 @@ public class Main {
         }
         
     }
-
-
-    //exit message
-
-
-
 
     
 }    
